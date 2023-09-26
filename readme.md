@@ -2,9 +2,9 @@
 
 Submitted by: Kiana Moore
 
-**Name of your app** is a movie browsing app that allows users to browse ... [TODO] 
+Movie Viewer 2 is a movie browsing app that allows users to browse movie stars by popularity
 
-Time spent: **X** hours spent in total
+Time spent: 8+ hours spent in total
 
 ## Required Features
 
@@ -45,7 +45,7 @@ I had trouble using Serialization method from Lab 4. I will continue to attempt 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Kiana Moore
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
